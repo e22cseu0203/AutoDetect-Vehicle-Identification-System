@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI based Traffic Management System 🚦
 
 The Smart Traffic Management System is a project aimed at developing an intelligent traffic management system using computer vision, machine learning, and algorithmic optimization techniques. The system consists of three main modules: Vehicle Detection, Signal Switching Algorithm, and Visualization.
@@ -35,3 +36,6 @@ The Visualization Module uses the Pygame library to provide a graphical user int
 
 ![3](https://github.com/prabhjotschugh/AI-based-Traffic-Management-System/assets/64200536/bf03086c-1582-4ac9-8beb-6bb76b3947b5)
 
+=======
+# AutoDetect-Vehicle-Identification-System
+>>>>>>> 5fe1bc36a92b3a4faa4aeea46eb06ef10dbcde08
